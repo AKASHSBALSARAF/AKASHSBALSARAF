@@ -1,6 +1,6 @@
 <img src="assets/intro.gif" width="360" align="top" />
 
-### Hi, I'm Akash 👋
+### Hi, I'm Akash 
 
 **Geospatial Data | Machine Learning | AI**
 
