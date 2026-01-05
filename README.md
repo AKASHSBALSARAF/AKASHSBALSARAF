@@ -1,4 +1,4 @@
-<img src="assets/intro.gif" width="360" align="left" />
+<img src="assets/intro.gif" width="360" align="top" />
 
 ### Hi, I'm Akash 👋
 
