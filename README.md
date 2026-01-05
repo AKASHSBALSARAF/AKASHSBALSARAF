@@ -12,5 +12,5 @@ Feel free to reach out if you have:
 - collaboration opportunities  
 - research ideas  
 - discussions, debates, or just a chat  
-
+I fail openly and without apology; it is the mark of a long student of this discipline.
 <br clear="left"/>
