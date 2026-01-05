@@ -1,24 +1,24 @@
 ⠀⠀⠀⠀⠀⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣷⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     ╭────── User : akash@github  
 ⠀⠀⠀⠀⣠⠾⠿⡟⣻⣷⣿⣿⣿⣄⣷⣄⣄⣠⣿⣳⡟⡿⠿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀     │ Profile  
-⠀⠀⢀⣾⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣞⣿⡉⢙⢿⣆⠀⠀⠀⠀⠀⠀⠀     │   Name        **Akash Shridhar Balsaraf**  
-⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀     │   Focus      **Geospatial Data • ML • AI**  
-⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⡟⣿⢘⢿⡞⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀     │   Interests  **Data Analysis, IoT, Research**  
+⠀⠀⢀⣾⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣞⣿⡉⢙⢿⣆⠀⠀⠀⠀⠀⠀⠀     │  @ Name        **Akash Shridhar Balsaraf**  
+⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀     │  # Focus      **Geospatial Data • ML • AI**  
+⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⡟⣿⢘⢿⡞⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀     │  * Interests  **Data Analysis, IoT, Research**  
 ⠀⡿⣿⣿⣿⡿⣿⢸⣇⢿⡇⡹⡄⠨⣻⢿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀     │  
 ⠀⡇⣿⣿⣿⡏⣸⣦⡳⠨⣣⠈⠉⡒⢡⣴⣿⣳⠹⣋⢻⠘⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀     │ Currently Learning  
-⠀⠰⢻⡟⣿⣿⢧⣸⣿⠀⠐⢆⡠⠔⠺⣟⢋⡟⢳⠒⠓⠦⢼⣿⣿⡿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀     │   **Advanced Python (Data Science)**  
-⠀⠀⠀⢙⣸⠿⡞⣟⣿⢊⠉⡏⠀⠀⠐⠬⠙⠒⢨⡀⠀⠀⣾⣿⠻⠇⢻⣿⡻⣿⠁⠀⠀⠀⠀⠀     │   **R (Statistical Modeling)**  
+⠀⠰⢻⡟⣿⣿⢧⣸⣿⠀⠐⢆⡠⠔⠺⣟⢋⡟⢳⠒⠓⠦⢼⣿⣿⡿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀     │  + **Advanced Python (Data Science)**  
+⠀⠀⠀⢙⣸⠿⡞⣟⣿⢊⠉⡏⠀⠀⠐⠬⠙⠒⢨⡀⠀⠀⣾⣿⠻⠇⢻⣿⡻⣿⠁⠀⠀⠀⠀⠀     │  + **R (Statistical Modeling)**  
 ⠀⠀⠀⡏⠒⠂⠰⠌⢼⡁⠀⠰⡀⠀⠀⠀⠀⢀⠄⠀⠀⢠⣿⣿⡄⢰⠘⢳⡑⣿⣆⠀⠀⠀⠀⠀     │  
 ⠀⠀⠀⢡⠀⡇⠀⠀⡘⢀⠀⠀⠈⠐⠀⠒⠈⠀⠀⠀⢀⡾⣿⣿⣿⣯⣿⣷⣷⣿⣿⣦⡀⠀⠀⠀     │ Open to Collaborate  
-⠀⠀⠀⠀⠑⢠⡐⠈⠀⠈⣉⡁⠀⠀⠀⠀⠀⠀⢀⠐⡋⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣙⠋⠉⠀     │   **Exponent Recognition**  
-⠀⠀⠀⠀⣠⠟⣿⣦⣄⠀⠈⠀⠀⠀⠀⠀⠀⢀⢄⠨⣪⡿⣿⣿⣿⣿⣿⣿⡿⣷⣌⠙⠛⠛⠒⠀     │   **Geospatial ML Projects**  
-⠀⠀⠀⠈⠀⣼⡿⠋⣿⣷⣄⣀⣀⠀⢀⠰⠘⠊⢁⠔⠋⠀⣿⣿⣿⣿⣿⠿⣷⣄⠉⠉⠀⠀⠀⠀     │   **Research-driven AI**  
+⠀⠀⠀⠀⠑⢠⡐⠈⠀⠈⣉⡁⠀⠀⠀⠀⠀⠀⢀⠐⡋⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣙⠋⠉⠀     │  > **Exponent Recognition**  
+⠀⠀⠀⠀⣠⠟⣿⣦⣄⠀⠈⠀⠀⠀⠀⠀⠀⢀⢄⠨⣪⡿⣿⣿⣿⣿⣿⣿⡿⣷⣌⠙⠛⠛⠒⠀     │  > **Geospatial ML Projects**  
+⠀⠀⠀⠈⠀⣼⡿⠋⣿⣷⣄⣀⣀⠀⢀⠰⠘⠊⢁⠔⠋⠀⣿⣿⣿⣿⣿⠿⣷⣄⠉⠉⠀⠀⠀⠀     │  > **Research-driven AI**  
 ⠀⠀⠀⠀⠈⠁⠀⣠⠟⣿⡿⢷⣶⣿⣴⣶⣾⣿⣿⣿⣿⣿⣿⣿⡟⡿⠌⠒⠀⠀⠀⠀⠀⠀⠀⠀     │  
 ⠀⠀⠀⠀⠀⠀⠀⠁⠀⠹⠁⡸⠛⣿⣿⣿⣿⣿⣿⣿⣿⡿⡿⣗⣄⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     │ Contact  
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⢿⣝⣶⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⡀⠀⠀⠀     │   Email       **akashsbalsaraf@gmail.com**  
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣾⣾⣿⣿⣿⣿⣻⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀     │   LinkedIn    **linkedin.com/in/akashsbalsaraf**  
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⢿⣝⣶⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⡀⠀⠀⠀     │  ✉ Email       **akashsbalsaraf@gmail.com**  
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣾⣾⣿⣿⣿⣿⣻⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀     │  in LinkedIn    **linkedin.com/in/akashsbalsaraf**  
 ⠀⠀⠀⠀⠀⣠⣶⣾⣿⣿⡿⡾⢩⣿⢯⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀     │  
 ⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⡷⣣⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀     │  ● ● ● ● ● ● ● ●  
-⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣰⣿⣾⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿      │ *Feel free to reach out for*  
+⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣰⣿⣾⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿        │ *Feel free to reach out for*  
 ⠀⠀⢀⣿⣿⣿⣿⣿⣟⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆     │ *suggestions, opportunities,*  
 ⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀    │  *discussions, ideas, or just a chat.*  
 ⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀    │  
